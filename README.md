@@ -6,8 +6,6 @@
 - 🚀 Exploring real-world problem solving through projects  
 - 📫 Reach me at: namradhamani28@gmail.com
 
----
-
 ### 🛠 Technical Skills
 
 **Programming Languages**
@@ -73,22 +71,10 @@
 
 **Tech Stack:** Python, AWS Lambda, S3, Glue, MongoDB, Apache Airflow (or Cron Jobs)
 
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-
-
 ### 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/namradha-mani-5b537928a/
 - GitHub: https://www.linkedin.com/in/namradha-mani-5b537928a/
 - Email: namradhamani28@gmail.com 
-
----
 
 ⭐ *Feel free to explore my repositories and collaborate!*
