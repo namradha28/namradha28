@@ -1,11 +1,11 @@
 ## Hi, I'm Namradha Mani 👋
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 👩‍💻 About Me
 - 🎓 Computer Science Student  
 - 💻 Passionate about **Artificial Intelligence, Cloud Computing, and Data Analytics**  
 - 🚀 Exploring real-world problem solving through projects  
 - 📫 Reach me at: namradhamani28@gmail.com
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠 Technical Skills
 
 **Programming Languages**
@@ -23,8 +23,7 @@
 - AWS (S3, EC2, Lambda, Athena)  
 - Git & GitHub  
 - Power BI, Excel  
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📌 Featured Projects
 
 #### 🔹 Smart Energy Consumption Analysis  
@@ -70,7 +69,7 @@
 - Logging and monitoring  
 
 **Tech Stack:** Python, AWS Lambda, S3, Glue, MongoDB, Apache Airflow (or Cron Jobs)
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/namradha-mani-5b537928a/
