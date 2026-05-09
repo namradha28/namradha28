@@ -147,7 +147,7 @@ Template-based bulk PDF/Word generator for invoices, reports & certificates with
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namradhamani28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=7c6dfa&icon_color=4ecdc4&text_color=c4bfff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api  username=namradhamani28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=7c6dfa&icon_color=4ecdc4&text_color=c4bfff" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namradhamani28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c6dfa&text_color=c4bfff" height="170"/>
 
