@@ -7,7 +7,6 @@
 * 🎓 Computer Science Student
 * 💻 Passionate about **Artificial Intelligence, Cloud Computing, Data Analytics, and Full Stack Development**
 * 🚀 Exploring real-world problem solving through innovative projects
-* 🌱 Currently learning and building with the **MERN Stack**
 * 📫 Reach me at: **[namradhamani28@gmail.com](mailto:namradhamani28@gmail.com)**
 
 ---
