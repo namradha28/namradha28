@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://namradha28.github.io">
+    <img src="https://img.shields.io/badge/🌐 View My Portfolio-7c6dfa?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 <h1 align="center">Hi, I'm Namradha Mani 👋</h1>
 
 <p align="center">
