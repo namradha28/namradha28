@@ -7,6 +7,7 @@
 * 🎓 Computer Science Student
 * 💻 Passionate about **Artificial Intelligence, Cloud Computing, Data Analytics, and Full Stack Development**
 * 🚀 Exploring real-world problem solving through innovative projects
+* 🌱 Currently learning and building with the **MERN Stack**
 * 📫 Reach me at: **[namradhamani28@gmail.com](mailto:namradhamani28@gmail.com)**
 
 ---
@@ -45,6 +46,14 @@
 * Power BI, Tableau, Excel
 * Flask
 
+#### **Other Skills**
+
+* Data Analysis & Visualization
+* API Integration
+* ETL Pipelines
+* Automation Systems
+* AI-based Applications
+
 ---
 
 ### 📌 Featured Projects
@@ -70,6 +79,44 @@
 * Integrated MongoDB database for dynamic data storage
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+#### 🔹 Weather Data Pipeline API
+
+* Developed an automated weather data pipeline system using APIs
+* Collected real-time weather data from external API sources
+* Processed and cleaned weather datasets for analysis
+* Stored and managed structured data in databases
+* Enabled real-time monitoring and visualization dashboards
+
+**Key Features:**
+
+* Automated API data fetching
+* Data transformation and validation
+* Real-time weather tracking
+* Scheduled pipeline execution
+
+**Tech Stack:** Python, REST API, AWS, MongoDB, Flask
+
+---
+
+#### 🔹Pixora AI | AI Video & Image Generator
+
+* Built an AI-powered media generation application
+* Generates images and videos from text prompts
+* Integrated AI models for creative content generation
+* Added prompt customization and media processing features
+* Designed an interactive and user-friendly interface
+
+**Key Features:**
+
+* Text-to-image generation
+* AI video generation
+* Prompt enhancement
+* Download and export support
+
+**Tech Stack:** Python, AI APIs, Flask, React.js, Cloud Services
 
 ---
 
