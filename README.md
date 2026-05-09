@@ -150,19 +150,6 @@ Template-based bulk PDF/Word generator for invoices, reports & certificates with
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=namradha28&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c6dfa&fire=ff6b9d&currStreakLabel=4ecdc4" width="500"/>
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=namradhamani28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💬 Let's Connect & Collaborate!
 
