@@ -1,174 +1,96 @@
-## Hi, I'm Namradha Mani 👋
+<h1 align="center">Hi, I'm Namradha Mani 👋</h1>
+
+<p align="center">
+  <em>Computer Science Student · AI · Cloud Computing · Full Stack · Data Analytics</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/namradha-mani-5b537928a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:namradhamani28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-* 🎓 Computer Science Student
-* 💻 Passionate about **Artificial Intelligence, Cloud Computing, Data Analytics, and Full Stack Development**
-* 🚀 Exploring real-world problem solving through innovative projects
-* 📫 Reach me at: **[namradhamani28@gmail.com](mailto:namradhamani28@gmail.com)**
-
----
-
-### 🛠 Technical Skills
-
-#### **Programming Languages**
-
-* Python
-* JavaScript
-* SQL
-
-#### **Web Technologies**
-
-* HTML, CSS, JavaScript
-* Node.js, Express.js
-* React.js
-* REST APIs
-
-#### **MERN Stack**
-
-* MongoDB
-* Express.js
-* React.js
-* Node.js
-
-#### **Databases**
-
-* MySQL
-* MongoDB
-
-#### **Cloud & Tools**
-
-* AWS (S3, EC2, Lambda, Athena, Glue)
-* Git & GitHub
-* Power BI, Tableau, Excel
-* Flask
-
-#### **Other Skills**
-
-* Data Analysis & Visualization
-* API Integration
-* ETL Pipelines
-* Automation Systems
-* AI-based Applications
+- 🎓 **Computer Science Student** passionate about building real-world solutions
+- 🤖 Exploring **Artificial Intelligence**, **Cloud Computing**, **Data Analytics**, and **Full Stack Development**
+- 🚀 Always learning and building something new
+- 📫 Reach me at **namradhamani28@gmail.com**
 
 ---
 
-### 📌 Featured Projects
+## 🛠 Tech Stack
 
-#### 🔹 Smart Energy Consumption Analysis
+**Languages**
 
-* Built an IoT-based energy monitoring system
-* Real-time data collection from smart meters
-* Created interactive dashboards
-* Integrated MongoDB for data storage
-* Used Generative AI for energy-saving suggestions
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tech Stack:** Python, IoT, MongoDB, AWS, Power BI
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🔹 MERN Stack Event Management System
+**Backend**
 
-* Developed a full-stack event management platform
-* Implemented user authentication and registration system
-* Added event booking and management features
-* Connected frontend and backend using REST APIs
-* Integrated MongoDB database for dynamic data storage
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+**Databases**
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### 🔹 Weather Data Pipeline API
+**Cloud & DevOps**
 
-* Developed an automated weather data pipeline system using APIs
-* Collected real-time weather data from external API sources
-* Processed and cleaned weather datasets for analysis
-* Stored and managed structured data in databases
-* Enabled real-time monitoring and visualization dashboards
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Key Features:**
+**Analytics & BI**
 
-* Automated API data fetching
-* Data transformation and validation
-* Real-time weather tracking
-* Scheduled pipeline execution
-
-**Tech Stack:** Python, REST API, AWS, MongoDB, Flask
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-#### 🔹Pixora AI | AI Video & Image Generator
+## 📌 Featured Projects
 
-* Built an AI-powered media generation application
-* Generates images and videos from text prompts
-* Integrated AI models for creative content generation
-* Added prompt customization and media processing features
-* Designed an interactive and user-friendly interface
-
-**Key Features:**
-
-* Text-to-image generation
-* AI video generation
-* Prompt enhancement
-* Download and export support
-
-**Tech Stack:** Python, AI APIs, Flask, React.js, Cloud Services
+| Project | Description | Tech Stack |
+|---|---|---|
+| ⚡ **Smart Energy Analysis** | IoT energy monitoring with real-time dashboards & GenAI suggestions | Python, IoT, MongoDB, AWS, Power BI |
+| 📅 **MERN Event Management** | Full-stack platform with auth, booking & REST APIs | MongoDB, Express, React, Node.js |
+| 🌦 **Weather Data Pipeline** | Automated ETL pipeline with real-time weather tracking & dashboards | Python, Flask, AWS, MongoDB |
+| 🎨 **Pixora AI** | Text-to-image & AI video generator with prompt enhancement | Python, Flask, React, AI APIs |
+| 🚚 **Delhivery Analysis** | Logistics performance analytics — estimated vs actual delivery insights | Python, Pandas, Power BI |
+| 📄 **Automated Doc Generator** | Bulk PDF/Word report generator with template support | Python, Flask, ReportLab, python-docx |
+| 🔄 **Automated Data Pipeline** | End-to-end ETL on AWS with Airflow scheduling & monitoring | Python, AWS Lambda, S3, Glue, Airflow |
 
 ---
 
-#### 🔹 Delhivery Dataset Analysis
+## 📊 GitHub Stats
 
-* Analyzed delivery efficiency and logistics performance
-* Compared estimated vs actual delivery time and distance
-* Built analytical dashboards for insights visualization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namradhamani28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namradhamani28&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-**Tools Used:** Python, Pandas, Power BI
-
----
-
-#### 🔹 Automated Document Generator
-
-* Built a system to generate dynamic reports and documents automatically
-* Converts user input or database data into formatted PDF/Word files
-* Supports templates for invoices, reports, and certificates
-* Reduced manual documentation effort
-
-**Features:**
-
-* Template-based generation
-* Custom formatting
-* Bulk document creation
-* Export as PDF/DOCX
-
-**Tech Stack:** Python, Flask, ReportLab, python-docx
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namradhamani28&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-#### 🔹 Automated Data Pipeline System
-
-* Designed an end-to-end ETL pipeline for data automation
-* Extracts data from multiple sources
-* Performs transformation and data cleaning
-* Loads processed data into databases and dashboards
-
-**Key Functionalities:**
-
-* Automated scheduling
-* Data validation and cleaning
-* Real-time data processing
-* Logging and monitoring
-
-**Tech Stack:** Python, AWS Lambda, S3, Glue, MongoDB, Apache Airflow
-
----
-
-### 🤝 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/namradha-mani-5b537928a/
-* GitHub: https://github.com/
-* Email: [namradhamani28@gmail.com](mailto:namradhamani28@gmail.com)
-
-⭐ *Feel free to explore my repositories and collaborate!*
+<p align="center">⭐ Feel free to explore my repositories and collaborate!</p>
